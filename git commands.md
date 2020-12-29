@@ -1,4 +1,4 @@
-# Git Commands
+# Git Commands
 
 ## New repository
 First you need to move to the place where you want to initialize the repository.
